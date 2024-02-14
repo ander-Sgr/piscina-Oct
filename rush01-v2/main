@@ -1,0 +1,5 @@
+
+		irite(1, "Error\n", 5);
+		 de un entero (int) en este sistema es: %lu bytes\n", sizeof(int));
+		 :wq
+
